@@ -40,7 +40,7 @@ cp discuss.md .claude/commands/
 
 > Other agents have their own conventions for custom commands — place the file accordingly.
 
-### 2. Make sure the reviewer agent CLI is installed
+### 2. Make sure the reviewer agent CLI is installed and authorized
 
 ```bash
 # Codex
